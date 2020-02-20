@@ -1,0 +1,6 @@
+d:\Users\Admin\source\repos\sampleclasslibrary\sampleclasslibrary\bin\Debug\sampleclasslibrary.dll
+d:\Users\Admin\source\repos\sampleclasslibrary\sampleclasslibrary\bin\Debug\sampleclasslibrary.pdb
+d:\Users\Admin\source\repos\sampleclasslibrary\sampleclasslibrary\obj\Debug\sampleclasslibrary.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\sampleclasslibrary\sampleclasslibrary\obj\Debug\sampleclasslibrary.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\sampleclasslibrary\sampleclasslibrary\obj\Debug\sampleclasslibrary.dll
+d:\Users\Admin\source\repos\sampleclasslibrary\sampleclasslibrary\obj\Debug\sampleclasslibrary.pdb
